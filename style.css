@@ -1,0 +1,14 @@
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+body {
+    background-color:mistyrose;
+    text-align: center;
+}
+
+a {
+    text-decoration-color: lightcoral;
+    color: rosybrown;
+}
